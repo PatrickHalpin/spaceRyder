@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-http": {
+            "PACKAGE_NAME": "com.PatrickHalpin.SpaceRyder"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.PatrickHalpin.SpaceRyder"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.PatrickHalpin.SpaceRyder"
+        }
+    }
+}
